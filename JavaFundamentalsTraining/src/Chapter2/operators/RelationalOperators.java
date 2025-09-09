@@ -10,7 +10,7 @@ public class RelationalOperators {
 
         double operand1 = 7;
         double operand2 = 12;
-
+//
         System.out.println("1 = " + (operand1 == operand2));
         System.out.println("2 = " + (operand1 != operand2));
         System.out.println("3 = " + (operand1 > operand2));

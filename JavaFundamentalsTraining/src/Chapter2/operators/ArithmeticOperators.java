@@ -14,6 +14,6 @@ public class ArithmeticOperators {
         System.out.println(answer - 4);
         System.out.println(answer * 4);
         System.out.println(answer / 4);
-        System.out.println(answer % 4);
+        System.out.println(answer % 4);//
     }
 }

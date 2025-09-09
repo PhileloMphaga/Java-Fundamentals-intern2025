@@ -18,6 +18,6 @@ public class LogicalOperators {
         System.out.println(a > 0 && e && b <= 5);     // false
         System.out.println(f || b == a || c > a);     // true
         System.out.println(f || (b == a) || (c > a)); // true
-        System.out.println((a >= 5) && (c > (d / 2)));// true
+        System.out.println((a >= 5) && (c > (d / 2)));// true//
     }
 }
